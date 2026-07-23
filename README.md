@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 6 |
+| 7 | 6 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (2)
 - [strings](#strings) (1)
 
@@ -46,6 +46,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/princezala63-iiits/Codeforces-Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/princezala63-iiits/Codeforces-Solutions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/princezala63-iiits/Codeforces-Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 
 ### math
